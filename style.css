@@ -25,14 +25,14 @@ header h1 {
   font-size: 1.8em;
 }
 .wrap {
-  border: 0px solid #ccf;
+  border: 0 solid #ccf;
   padding: 5px;
   display: flex;
   flex-wrap: wrap;
 }
 .wrap .item {
   padding: 10px;
-  border: 0px solid #f90;
+  border: 0 solid #f90;
   flex: 1 0 0;
   min-width: 25%;
   text-align: center;
